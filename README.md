@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=memod&show_icons=true&locale=en&layout=compact" alt="memod" /></p>
 
 ### Have a laugh at a random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue)

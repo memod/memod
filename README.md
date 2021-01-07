@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate software engineer from Mexico</h3>
+# Hi 👋, I'm Carlos
+### A passionate software engineer from Mexico
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memod&label=Profile%20views&color=0e75b6&style=flat" alt="memod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memod" alt="memod" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cdurazo8" target="blank"><img src="https://img.shields.io/twitter/follow/cdurazo8?logo=twitter&style=for-the-badge" alt="cdurazo8" /></a> </p>
 
@@ -20,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=memod&show_icons=true&locale=en&layout=compact" alt="memod" /></p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
